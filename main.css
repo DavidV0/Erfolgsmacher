@@ -3,3 +3,13 @@
     padding: 8px;
     justify-content: space-evenly;
 }
+
+.container{
+    background-color: lightslategray;
+}
+.überschriften{
+    margin: 16px;
+    display: flex;
+    justify-content: space-around ;
+    align-self: center;
+}
